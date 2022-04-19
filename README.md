@@ -18,7 +18,7 @@ module load xyz
 conda activate xyz
 ```
 
-in `multi_node.pbs` and 'startWorkerNode.pbs' to run. 
+in `multi_node.pbs` and `startWorkerNode.pbs` to run. 
 
 - change `example_trainer.py` to your script.
 
