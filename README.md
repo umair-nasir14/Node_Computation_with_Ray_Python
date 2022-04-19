@@ -20,7 +20,9 @@ conda activate xyz
 
 in `multi_node.pbs` and 'startWorkerNode.pbs' to run. 
 
-- channge `example_trainer.py` to your script.
+- change `example_trainer.py` to your script.
+
+
 
 
 #### You are most welcome to change the directives to `SLURM` and commit it.
