@@ -5,10 +5,10 @@
 - [Ray](https://docs.ray.io/en/latest/ray-overview/installation.html)
 
 ### Run:
-'''
+```
 qsub multi_node.pbs
 
-'''
+```
 
 ### Change:
 
