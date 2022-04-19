@@ -26,7 +26,7 @@ do
         then
                 echo "first allocate node - use as headnode ..."
                 module load xyz
-		            conda activate xyz
+		conda activate xyz
                 ray start --head
                 sleep 5
         else
